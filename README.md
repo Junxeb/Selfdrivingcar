@@ -1,0 +1,1 @@
+This project for AI subject. I use the knowledge from the content about neural network. And I learned how to dothis project from freeCodeCamp.org and Ragu Mariescu-Istodor channel. Him teaches how to do this project step by step and use JavaScript , HTML and CSS
